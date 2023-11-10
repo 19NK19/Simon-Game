@@ -1,4 +1,5 @@
-# Simon-Game is an Digital Verson of Simon is an electronic game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison,
+# Simon-Game is an Digital Verson of Simon an electronic game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison,
+Created With The help of Html,Css and Java Script.
 The Game has four colored buttons(Boxs), each producing a particular tone when it is pressed or activated by the Mouse . A round in the game consists of the Boxs lighting up one or more buttons in a random order, 
 after which the player must reproduce that order by pressing the buttons. As the game progresses, 
 the number of buttons to be pressed increases.
